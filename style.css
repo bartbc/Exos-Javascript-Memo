@@ -1,3 +1,10 @@
 img {
     width:100px;
 }
+/* img::after {
+
+} */
+.selection {
+    border: solid;
+    border-color: brown;
+}
